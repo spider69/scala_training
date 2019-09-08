@@ -1,7 +1,4 @@
 # Default ignored files
-/workspace.xml
-../.idea
-/codeStyles
-/libraries
-../project
-../target
+scala_for_the_impatient/.idea
+scala_for_the_impatient/project
+scala_for_the_impatient/target
