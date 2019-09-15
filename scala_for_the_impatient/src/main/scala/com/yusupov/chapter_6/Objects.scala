@@ -1,4 +1,4 @@
-package com.yusupov
+package com.yusupov.chapter_6
 
 object Objects extends App {
 
